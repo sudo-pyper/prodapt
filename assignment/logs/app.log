@@ -1,0 +1,134 @@
+assignment.file_writer - INFO - Inside Filewriter class
+assignment.joiner - INFO - Inside class joiner
+assignment.json_parser - INFO - Inside json parser class
+root - INFO - Starting url fetch
+root - INFO - Generated csv file for /home/dhiraj/prodapt/assignment/output_files/posts.csv
+root - INFO - Generated csv file for /home/dhiraj/prodapt/assignment/output_files/comments.csv
+assignment.joiner - INFO - Combined the file                                                   body                           email   id                                               name  postId
+0    laudantium enim quasi est quidem magnam volupt...              Eliseo@gardner.biz    1                       id labore ex et quam laborum       1
+1    est natus enim nihil est dolore omnis voluptat...          Jayne_Kuhic@sydney.com    2          quo vero reiciendis velit similique earum       1
+2    quia molestiae reprehenderit quasi aspernatur\...             Nikita@garfield.biz    3                      odio adipisci rerum aut animi       1
+3    non et atque\noccaecati deserunt quas accusant...                   Lew@alysha.tv    4                                     alias odio sit       1
+4    harum non quasi et ratione\ntempore iure ex vo...               Hayden@althea.biz    5              vero eaque aliquid doloribus et culpa       1
+5    doloribus at sed quis culpa deserunt consectet...        Presley.Mueller@myrl.com    6  et fugit eligendi deleniti quidem qui sint nih...       2
+6    maiores sed dolores similique labore et invent...                   Dallas@ole.me    7  repellat consequatur praesentium vel minus mol...       2
+7    ut voluptatem corrupti velit\nad voluptatem ma...         Mallory_Kunze@marie.org    8                                   et omnis dolorem       2
+8    sapiente assumenda molestiae atque\nadipisci l...           Meghan_Littel@rene.us    9                              provident id voluptas       2
+9    voluptate iusto quis nobis reprehenderit ipsum...    Carmen_Keeling@caroline.name   10          eaque et deleniti atque tenetur ut quo ut       2
+10   ut dolorum nostrum id quia aut est\nfuga est i...   Veronica_Goodwin@timmothy.net   11  fugit labore quia mollitia quas deserunt nostr...       3
+11   expedita maiores dignissimos facilis\nipsum es...    Oswald.Vandervort@leanne.org   12                modi ut eos dolores illum nam dolor       3
+12   fuga eos qui dolor rerum\ninventore corporis e...                Kariane@jadyn.tv   13  aut inventore non pariatur sit vitae voluptate...       3
+13   vel quae voluptas qui exercitationem\nvoluptat...                 Nathan@solon.io   14  et officiis id praesentium hic aut ipsa dolore...       3
+14   nihil ut voluptates blanditiis autem odio dict...  Maynard.Hodkiewicz@roberta.com   15  debitis magnam hic odit aut ullam nostrum tenetur       3
+15   iste ut laborum aliquid velit facere itaque\nq...            Christine@ayana.info   16  perferendis temporibus delectus optio ea eum r...       4
+16   consequatur necessitatibus totam sed sit dolor...        Preston_Hudson@blaise.tv   17                                 eos est animi quis       4
+17   veritatis voluptates necessitatibus maiores co...   Vincenza_Klocko@albertha.name   18          aut et tenetur ducimus illum aut nulla ab       4
+18   doloribus est illo sed minima aperiam\nut dign...    Madelynn.Gorczany@darion.biz   19  sed impedit rerum quia et et inventore unde of...       4
+19   qui harum consequatur fugiat\net eligendi perf...         Mariana_Orn@preston.org   20         molestias expedita iste aliquid voluptates       4
+20   deleniti aut sed molestias explicabo\ncommodi ...               Noemie@marques.me   21   aliquid rerum mollitia qui a consectetur eum sed       5
+21   qui ipsa animi nostrum praesentium voluptatibu...              Khalil@emile.co.uk   22             porro repellendus aut tempore quis hic       5
+22   voluptates provident repellendus iusto perspic...            Sophia@arianna.co.uk   23                     quis tempora quidem nihil iste       5
+23   repudiandae repellat quia\nsequi est dolore ex...                Jeffery@juwan.us   24                          in tempore eos beatae est       5
+24   sunt aut quae laboriosam sit ut impedit\nadipi...        Isaias_Kuhic@jarrett.net   25            autem ab ea sit alias hic provident sit       5
+25   incidunt sapiente eaque dolor eos\nad est mole...        Russel.Parker@kameron.io   26  in deleniti sunt provident soluta ratione veni...       6
+26   nisi vel quas ut laborum ratione\nrerum magni ...      Francesco.Gleason@nella.us   27           doloribus quibusdam molestiae amet illum       6
+27   voluptatem repellendus quo alias at laudantium...                Ronny@rosina.org   28  quo voluptates voluptas nisi veritatis digniss...       6
+28   tempora voluptatem est\nmagnam distinctio aute...       Jennings_Pouros@erica.biz   29                          eum distinctio amet dolor       6
+29   consequuntur quia voluptate assumenda et\naute...              Lurline@marvin.biz   30       quasi nulla ducimus facilis non voluptas aut       6
+..                                                 ...                             ...  ...                                                ...     ...
+470  quia non dolor\ncorporis consectetur velit eos...                Pearline@veda.ca  471  nihil ad debitis rerum optio est cumque sed vo...      95
+471  et necessitatibus earum qui velit id explicabo...           Belle.Braun@otis.name  472                          aspernatur ex dolor optio      95
+472  quod corrupti eum quisquam rerum accusantium t...                Eliane@libby.net  473              quaerat et excepturi autem animi fuga      95
+473  tempora sint qui iste itaque non neque qui sus...        Trey.Harber@christop.biz  474          natus consequatur deleniti ipsum delectus      95
+474  ut in nostrum\nut et incidunt et minus nulla p...               Kailyn@ivory.info  475  cumque consequuntur excepturi consequatur cons...      95
+475  officia quas aut culpa eum\neaque quia rem und...       Amely.Kunde@rodrigo.co.uk  476                quia hic adipisci modi fuga aperiam      96
+476  nulla veniam quo consequuntur ullam\nautem nis...     Thaddeus.Halvorson@ruthe.ca  477                                   ut occaecati non      96
+477  non similique illo\nquia et rem placeat repreh...                  Hannah@emma.ca  478  quo error dignissimos numquam qui nam fugit vo...      96
+478  totam explicabo harum quam impedit sunt\ndolor...         Maryam.Mann@thelma.info  479  distinctio minima error aspernatur reiciendis ...      96
+479  tenetur qui ut\narchitecto officiis voluptatem...                 Michel@keira.us  480                  accusantium quo error repudiandae      96
+480  dignissimos nobis vitae corporis delectus elig...             Domenick@russell.ca  481  recusandae dolor similique autem saepe volupta...      97
+481  aliquid natus voluptas doloremque fugiat ratio...              Chanelle@samson.me  482                       placeat eveniet sunt ut quis      97
+482  quos aut rerum nihil est et\ndolores commodi v...         Hermann.Kunde@rosina.us  483                           a ipsa nihil sed impedit      97
+483  vel libero quo sit vitae\nid nesciunt ipsam no...                  Olen@bryce.net  484                             hic inventore sint aut      97
+484  soluta quia porro mollitia eos accusamus\nvolu...      Lorenza.Carter@consuelo.ca  485                              enim asperiores illum      97
+485  iste maxime et molestiae\nqui aliquam doloremq...            Lamont@georgiana.biz  486        et aut qui eaque porro quo quis velit rerum      98
+486  sint delectus nesciunt ipsum et aliquid et lib...      Colin_Gutkowski@muriel.net  487                  sunt omnis aliquam labore eveniet      98
+487  aut sunt recusandae laboriosam omnis asperiore...               Albert@johnny.biz  488             quo neque dolorem dolorum non incidunt      98
+488  et dolorem sit\nreprehenderit sapiente occaeca...        Hilma.Kutch@ottilie.info  489  aut quia et corporis voluptas quisquam voluptatem      98
+489  minus nihil sunt dolor\nipsum a illum quis\nqu...              Donnie@alfreda.biz  490  et eum provident maxime beatae minus et dolore...      98
+490  natus commodi debitis cum ex rerum alias quis\...              Maxwell@adeline.me  491                                      eos enim odio      99
+491  iure deleniti aut consequatur necessitatibus\n...                 Amina@emmet.org  492     consequatur alias ab fuga tenetur maiores modi      99
+492  est eos doloremque autem\nsimilique sint fuga ...               Gilda@jacques.org  493               ut praesentium sit eos rerum tempora      99
+493  est illum quia alias ipsam minus\nut quod vero...                 Kadin@walter.io  494  molestias facere soluta mollitia totam dolorem...      99
+494  pariatur occaecati ea autem at quis et dolorem...       Alice_Considine@daren.com  495  dolor ut ut aut molestiae esse et tempora numquam      99
+495  neque unde voluptatem iure\nodio excepturi ips...                 Zola@lizzie.com  496  et occaecati asperiores quas voluptas ipsam no...     100
+496  non dolor consequatur\nlaboriosam ut deserunt ...               Dolly@mandy.co.uk  497             doloribus dolores ut dolores occaecati     100
+497  aliquam pariatur suscipit fugiat eos sunt\nopt...               Davion@eldora.net  498                           dolores minus aut libero     100
+498  et necessitatibus tempora ipsum quaerat invent...    Wilburn_Labadie@araceli.name  499  excepturi sunt cum a et rerum quo voluptatibus...     100
+499  perspiciatis quis doloremque\nveniam nisi eos ...                  Emma@joanny.ca  500                                 ex eaque eum natus     100
+
+[500 rows x 5 columns] and                                                  body   id                                              title  userId
+0   quia et suscipit\nsuscipit recusandae consequu...    1  sunt aut facere repellat provident occaecati e...       1
+1   est rerum tempore vitae\nsequi sint nihil repr...    2                                       qui est esse       1
+2   et iusto sed quo iure\nvoluptatem occaecati om...    3  ea molestias quasi exercitationem repellat qui...       1
+3   ullam et saepe reiciendis voluptatem adipisci\...    4                               eum et est occaecati       1
+4   repudiandae veniam quaerat sunt sed\nalias aut...    5                                 nesciunt quas odio       1
+5   ut aspernatur corporis harum nihil quis provid...    6                 dolorem eum magni eos aperiam quia       1
+6   dolore placeat quibusdam ea quo vitae\nmagni q...    7                               magnam facilis autem       1
+7   dignissimos aperiam dolorem qui eum\nfacilis q...    8                           dolorem dolore est ipsam       1
+8   consectetur animi nesciunt iure dolore\nenim q...    9  nesciunt iure omnis dolorem tempora et accusan...       1
+9   quo et expedita modi cum officia vel magni\ndo...   10                        optio molestias id quia eum       1
+10  delectus reiciendis molestiae occaecati non mi...   11                   et ea vero quia laudantium autem       2
+11  itaque id aut magnam\npraesentium quia et ea o...   12              in quibusdam tempore odit est dolorem       2
+12  aut dicta possimus sint mollitia voluptas comm...   13  dolorum ut in voluptas mollitia et saepe quo a...       2
+13  fuga et accusamus dolorum perferendis illo vol...   14                          voluptatem eligendi optio       2
+14  reprehenderit quos placeat\nvelit minima offic...   15                            eveniet quod temporibus       2
+15  suscipit nam nisi quo aperiam aut\nasperiores ...   16  sint suscipit perspiciatis velit dolorum rerum...       2
+16  eos voluptas et aut odit natus earum\naspernat...   17  fugit voluptas sed molestias voluptatem provident       2
+17  eveniet quo quis\nlaborum totam consequatur no...   18         voluptate et itaque vero tempora molestiae       2
+18  illum quis cupiditate provident sit magnam\nea...   19          adipisci placeat illum aut reiciendis qui       2
+19  qui consequuntur ducimus possimus quisquam ame...   20                 doloribus ad provident suscipit at       2
+20  repellat aliquid praesentium dolorem quo\nsed ...   21  asperiores ea ipsam voluptatibus modi minima q...       3
+21  eos qui et ipsum ipsam suscipit aut\nsed omnis...   22          dolor sint quo a velit explicabo quia nam       3
+22  veritatis unde neque eligendi\nquae quod archi...   23                      maxime id vitae nihil numquam       3
+23  enim et ex nulla\nomnis voluptas quia qui\nvol...   24             autem hic labore sunt dolores incidunt       3
+24  ullam consequatur ut\nomnis quis sit vel conse...   25                      rem alias distinctio quo quis       3
+25  similique esse doloribus nihil accusamus\nomni...   26                           est et quae odit qui non       3
+26  eum sed dolores ipsam sint possimus debitis oc...   27              quasi id et eos tenetur aut quo autem       3
+27  non et quaerat ex quae ad maiores\nmaiores rec...   28    delectus ullam et corporis nulla voluptas sequi       3
+28  odit magnam ut saepe sed non qui\ntempora atqu...   29            iusto eius quod necessitatibus culpa ea       3
+29  alias dolor cumque\nimpedit blanditiis non eve...   30                  a quo magni similique perferendis       3
+..                                                ...  ...                                                ...     ...
+70  occaecati a doloribus\niste saepe consectetur ...   71                  et iusto veniam et illum aut fuga       8
+71  quam occaecati qui deleniti consectetur\nconse...   72          sint hic doloribus consequatur eos non id       8
+72  voluptatem cumque tenetur consequatur expedita...   73  consequuntur deleniti eos quia temporibus ab a...       8
+73  odit qui et et necessitatibus sint veniam\nmol...   74  enim unde ratione doloribus quas enim ut sit s...       8
+74  commodi non non omnis et voluptas sit\nautem a...   75       dignissimos eum dolor ut enim et delectus in       8
+75  ut animi facere\ntotam iusto tempore\nmolestia...   76          doloremque officiis ad et non perferendis       8
+76  modi ut in nulla repudiandae dolorum nostrum e...   77           necessitatibus quasi exercitationem odio       8
+77  nobis facilis odit tempore cupiditate quia\nas...   78                  quam voluptatibus rerum veritatis       8
+78  libero accusantium et et facere incidunt sit d...   79  pariatur consequatur quia magnam autem omnis n...       8
+79  ex quod dolorem ea eum iure qui provident amet...   80        labore in ex et explicabo corporis aut quas       8
+80  facere qui nesciunt est voluptatum voluptatem ...   81    tempora rem veritatis voluptas quo dolores vero       9
+81  ut libero sit aut totam inventore sunt\nporro ...   82       laudantium voluptate suscipit sunt enim enim       9
+82  est molestiae facilis quis tempora numquam nih...   83         odit et voluptates doloribus alias odio et       9
+83  sint molestiae magni a et quos\neaque et quasi...   84  optio ipsam molestias necessitatibus occaecati...       9
+84  similique sed nisi voluptas iusto omnis\nmolli...   85  dolore veritatis porro provident adipisci blan...       9
+85  quasi excepturi consequatur iste autem tempori...   86                         placeat quia et porro iste       9
+86  eos et molestiae\nnesciunt ut a\ndolores persp...   87                         nostrum quis quasi placeat       9
+87  consequatur omnis est praesentium\nducimus non...   88                           sapiente omnis fugit eos       9
+88  repellat aut aperiam totam temporibus autem et...   89           sint soluta et vel magnam aut ut sed qui       9
+89  minus omnis soluta quia\nqui sed adipisci volu...   90             ad iusto omnis odit dolor voluptatibus       9
+90  libero voluptate eveniet aperiam sed\nsunt pla...   91                                       aut amet sed      10
+91  aut et excepturi dicta laudantium sint rerum n...   92                     ratione ex tenetur perferendis      10
+92  dolorem quibusdam ducimus consequuntur dicta a...   93                           beatae soluta recusandae      10
+93  aspernatur expedita soluta quo ab ut similique...   94                qui qui voluptates illo iste minima      10
+94  earum voluptatem facere provident blanditiis v...   95              id minus libero illum nam ad officiis      10
+95  in non odio excepturi sint eum\nlabore volupta...   96  quaerat velit veniam amet cupiditate aut numqu...      10
+96  eum non blanditiis soluta porro quibusdam volu...   97         quas fugiat ut perspiciatis vero provident      10
+97  doloremque ex facilis sit sint culpa\nsoluta a...   98                        laboriosam dolor voluptates      10
+98  quo deleniti praesentium dicta non quod\naut e...   99  temporibus sit alias delectus eligendi possimu...      10
+99  cupiditate quo est a modi nesciunt soluta\nips...  100              at nam consequatur ea labore ea harum      10
+
+[100 rows x 4 columns] and created output file /home/dhiraj/prodapt/assignment/output_files/combined.csv at
+root - INFO -  Generated combibed csv file for comments and posts. Output file name /home/dhiraj/prodapt/assignment/output_files/combined.csv

@@ -14,6 +14,7 @@ from assignment.file_writer import FileWriter
 from assignment.joiner import Joiner
 from assignment.json_parser import JsonParser
 
+
 def create_unified_csv_file():
 
     logging.info('Starting url fetch')
